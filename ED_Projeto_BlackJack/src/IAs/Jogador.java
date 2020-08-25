@@ -11,7 +11,7 @@ import B_Pilha.Pilha;
 
 /**
  *
- * @author Lorenzetti
+ * @author LuanC
  */
 public abstract class Jogador {
 

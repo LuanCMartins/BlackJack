@@ -8,7 +8,7 @@ package A_Baralho;
 
 /**
  *
- * @author Murilo
+ * @author LuanC
  */
 public class Carta {
     

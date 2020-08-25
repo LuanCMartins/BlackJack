@@ -8,7 +8,7 @@ package B_Pilha;
 
 /**
  *
- * @author Lorenzetti
+ * @author LuanC
  */
 public class Node <E> {
     private E value;

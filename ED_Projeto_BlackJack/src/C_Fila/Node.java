@@ -8,7 +8,7 @@ package C_Fila;
 
 /**
  *
- * @author Lorenzetti
+ * @author LuanC
  */
 public class Node {
     private Object value;
